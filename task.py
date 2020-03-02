@@ -5,7 +5,7 @@ def firstrun():
     return "success"
 
 
-def circle_are(radius):
+def circle_area(radius):
     area = (radius * radius)
     area = math.pi * area
     return area
