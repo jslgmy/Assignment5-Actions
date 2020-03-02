@@ -34,4 +34,3 @@ def days(date1, date2):
 
     diff = total2 - total1
     return diff
-
