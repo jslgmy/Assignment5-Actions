@@ -12,5 +12,5 @@ def circle_area(radius):
 
 
 def list(input):
-    first_last = [input[0]], input[-1]]
+    first_last = [input[0], input[-1]]
     return first_last
